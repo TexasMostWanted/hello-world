@@ -7,4 +7,6 @@ This is a second line about me!
 
 I'm adding in spaces to see how that looks.
 
-This is my secod banch!
+This is my second branch!
+
+I misspelled that on line 10!
